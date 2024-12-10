@@ -1,0 +1,3 @@
+﻿  triFichier.cpp
+C:\Users\H P\source\repos\triFichier\triFichier\triFichier.cpp(52,18): warning C4244: 'initialisation' : conversion de '__int64' en 'int', perte possible de données
+LINK : fatal error LNK1168: impossible d'ouvrir C:\Users\H P\source\repos\triFichier\x64\Debug\triFichier.exe pour écrire
